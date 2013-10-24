@@ -44,7 +44,8 @@ https://docs.google.com/presentation/d/1VeyWLsF70whHpzun2kwBGykS6kZC5ZGlUldEHWg3
 There are two terms which have surprisingly peculiar trajectory in computer world: abstraction and utopia (see in Autonomy.).
 
 The principle of abstraction in software engineering is a fundamental gesture by which the duplication of the same code is avoided but also by which one enable herself for operating at the higher layer of complexity. As McKenzie Wark puts it in Hacker Manifesto:
-Everywhere abstraction reigns, abstraction made concrete.
+
+> Everywhere abstraction reigns, abstraction made concrete.
 
 Turing universal machine became objet petit a of my research. In Tracing Concepts (attached to this application), published in Volume #28 - Internet of things, I wrote about the history of virtual machines  unwrapping the foundation of - virtualization - today's main concept behind running distributed network of computers as utility. 
 
@@ -57,7 +58,14 @@ These, rather kittlerian, (historical continuity) narratives and vocabulary are 
 ## Autonomy.
 
 The utopian fantasy in the computer world is best described with another of its abstractions: separation of concerns. It is the design principle coined by Edsger Dijkstra in his 1974 paper “On The Role of Scientific Thought”:
-[The separation of concerns] is what I mean by focusing one's attention upon some aspect: it does not mean ignoring the other aspects, it is just doing justice to the fact that from this aspect's point of view, the other is irrelevant. It is being one- and multiple-track minded simultaneously. 
+
+> [The separation of concerns] is what I mean by focusing one's
+> attention upon some aspect: it does not mean ignoring the other
+> aspects, it is just doing justice to the fact that from this aspect's
+> point of view, the other is irrelevant. It is being one- and
+> multiple-track minded simultaneously.
+
+ 
 
 A complex system designed by the principle of separation of concerns allows distributed and modular structure. Another trend in computer world is that every module, a component of the system, through time tends to improve itself to the Turing completeness (a conceptual equivalent of Turing universal machine). That means that inside of the complex system its part becomes able to recreate the system itself. A commitment to ultimately distribute, separate concerns, secure/encrypt communication and eventually build distributed infrastructure of common based peer production, collaboration and trust is the reason why we have Free Software Movement, GNU/Linux, PGP, Wikipedia, OpenStreetMap, Wikileaks, Bitcoin, Tor, Anonymous and at last Internet.
 
