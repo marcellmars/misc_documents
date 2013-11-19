@@ -1,3 +1,5 @@
+view this document here: https://stackedit.io/viewer#!provider=gist&gistId=7547779&filename=PublicLibraryLocalSetup_no-docker.md
+
 [TOC]
 
 
